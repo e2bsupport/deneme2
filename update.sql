@@ -8,6 +8,8 @@ UPDATE public.planet_osm_point set name='Lefkoşa' where osm_id='1893015330';
 
 UPDATE public.planet_osm_polygon set name='KUZEY KIBRIS TÜRK CUMHURİYETİ' where osm_id='-307787';
 UPDATE public.planet_osm_polygon set name='KUZEY KIBRIS TÜRK CUMHURİYETİ' where osm_id='-3263732';
+UPDATE public.planet_osm_polygon set name='KUZEY KIBRIS TÜRK CUMHURİYETİ' where osm_id='-2514541';
+
 
 UPDATE public.planet_osm_polygon set name='Lefkoşa' where osm_id='-2628520';
 UPDATE public.planet_osm_polygon set name='Lefkoşa' where osm_id='-2628521';
