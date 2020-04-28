@@ -6,6 +6,9 @@ SELECT * from planet_osm_polygon where name LIKE  '%KKTC%';
 SELECT * from planet_osm_polygon where name LIKE  '%- Kıbrıs%';
 SELECT * from planet_osm_polygon where name LIKE  '%Türkiye%';
 SELECT * from planet_osm_polygon where name LIKE  '%Lefkoşa%';
+SELECT * from planet_osm_polygon where name LIKE  '%Kuzey Kıbrıs%';
+
+SELECT * from planet_osm_point where name LIKE  '%Kuzey Kıbrıs%';
 SELECT * from planet_osm_point where name LIKE  '%Lefkoşa%';
 SELECT * from planet_osm_point where name LIKE  '%Λευκωσία%';
 
